@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 17 May 2026 06:49:16 at https://walimatul.id/tema/minimalis-04/?to=Tamu+Undangan +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://walimatul.id/tema/minimalis-04/?to=Tamu+Undangan -O1 "D:\wedding 3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:49:46	Error: 	"Not Found" (404) at link https://walimatul.id/tema/minimalis-04/signals/config/ (from https://connect.facebook.net/en_US/fbevents.js)
+06:49:46	Error: 	"Not Found" (404) at link https://walimatul.id/tema/minimalis-04/signals/plugins/ (from https://connect.facebook.net/en_US/fbevents.js)
+06:49:46	Error: 	"Not Found" (404) at link https://walimatul.id/tema/minimalis-04/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+06:49:46	Error: 	"Not Found" (404) at link https://walimatul.id/tema/minimalis-04/t.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+06:49:46	Error: 	"Not Found" (404) at link https://walimatul.id/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+06:49:46	Error: 	"Not Found" (404) at link https://walimatul.id/signals/iwl.js?pixel_id= (from https://connect.facebook.net/en_US/fbevents.js)
+06:49:46	Error: 	"Not Found" (404) at link https://walimatul.id/tema/minimalis-04/n.dl (from https://connect.facebook.net/en_US/fbevents.js)
+06:49:46	Error: 	"Not Found" (404) at link https://walimatul.id/tema/minimalis-04/n.rl (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 90 links scanned, 81 files written (2368909 bytes overall) [773441 bytes received at 25781 bytes/sec], 2734193 bytes transferred using HTTP compression in 85 files, ratio 23%, 11.7 requests per connection
+(8 errors, 0 warnings, 0 messages)
